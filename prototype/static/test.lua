@@ -1,0 +1,1 @@
+textutils.slowPrint("Welcome to ale.kst")
